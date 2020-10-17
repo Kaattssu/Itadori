@@ -1,0 +1,2 @@
+# Itadori
+Discord.JS | Bot
